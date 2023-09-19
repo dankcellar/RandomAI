@@ -1,0 +1,20 @@
+L (Space 17, before 3rd comma) – Record identifier (see notes below)
+C – Closest approach to a coast, not followed by a landfall G
+– Genesis
+I – An intensity peak in terms of both pressure and wind
+L – Landfall (center of system crossing a coastline)
+P – Minimum in central pressure
+R – Provides additional detail on the intensity of the cyclone when rapid changes are underway
+S – Change of status of the system
+T – Provides additional detail on the track (position) of the cyclone W – Maximum sustained wind speed
+
+TS (Spaces 20-21, before 4th comma) – Status of system. Options are: TD
+– Tropical cyclone of tropical depression intensity (< 34 knots)
+TS – Tropical cyclone of tropical storm intensity (34-63 knots)
+HU – Tropical cyclone of hurricane intensity (> 64 knots)
+EX – Extratropical cyclone (of any intensity)
+SD – Subtropical cyclone of subtropical depression intensity (< 34 knots)
+SS – Subtropical cyclone of subtropical storm intensity (> 34 knots)
+LO – A low that is neither a tropical cyclone, a subtropical cyclone, nor an extratropical cyclone (of any intensity)
+WV – Tropical Wave (of any intensity)
+DB – Disturbance (of any intensity) 
